@@ -27,7 +27,7 @@ const Hero = () =>{
 							<div className='mt-5'>
 								<button className='primarybtn rounded'>
 									<a href='tel://+2349153396054'>
-										Hire me
+										Place a call
 									</a>
 								</button>
 								<button className='secondarybtn ml-4 rounded'>
@@ -69,7 +69,7 @@ const Hero = () =>{
 							</span>
 							<div className='mx-2'>
 								<h6 className='mb-2 bg-none'>Experience</h6>
-								<h5 className='bg-none'>2 years</h5>
+								<h5 className='bg-none'>4 years</h5>
 							</div>
 						</div>
 					</div>
